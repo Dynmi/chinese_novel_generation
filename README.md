@@ -2,11 +2,11 @@
 
 
 
-##### ————这是使用LSTM生成中文小说的一个简单尝试
+##### ————使用LSTM生成中文小说的一个简单尝试
 
 
 
-##### ————这里所搭建的RNN结构为 
+##### ————本处程序中所搭建的RNN结构为 
 
 ​	***Input -> LSTM -> Dropout -> LSTM -> Dropout -> Fully Connected*** 
 
