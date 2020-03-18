@@ -1,15 +1,15 @@
 # Chinese_Novel_Generation using LSTM
 
-## 使用LSTM生成中文小说的一个简单尝试
+使用LSTM生成中文小说的一个简单尝试.
 
-## Package Required：
+## Package Required
 - tensorflow 1.5+
 - numpy
 
-## 本处所搭建的RNN结构为 
+## 本处所搭建的RNN结构 
 - ***Input -> LSTM -> Dropout -> LSTM -> Dropout -> Fully Connected*** 
 
-## 模型超参数默认值分别为
+## Default HyperParameters for the model
 
 ```
 # 训练循环次数
