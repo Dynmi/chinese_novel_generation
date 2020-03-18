@@ -1,4 +1,4 @@
-# Chinese_Novel_Generation using LSTM
+# Chinese Novel Generation using LSTM
 
 使用LSTM生成中文小说的一个简单尝试.
 
