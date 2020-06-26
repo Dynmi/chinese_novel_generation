@@ -1,6 +1,12 @@
 # Chinese Novel Generation using LSTM
 
+
 使用LSTM生成中文小说的一个简单尝试.
+
+</br>
+
+###  >>>Abandoned project<<<
+</br>
 
 ## Package Required
 - tensorflow 1.5+
