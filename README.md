@@ -8,7 +8,7 @@
 ###  >>>Abandoned project<<<
 </br>
 
-## Package Required
+## Dependencies
 - tensorflow 1.5+
 - numpy
 
