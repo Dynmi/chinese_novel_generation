@@ -15,7 +15,7 @@
 ## 本处所搭建的RNN结构 
 - ***Input -> LSTM -> Dropout -> LSTM -> Dropout -> Fully Connected*** 
 
-## Default HyperParameters for the model
+## Default HyperParameters for this model
 
 ```
 # 训练循环次数
